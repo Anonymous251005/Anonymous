@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HCI Research Page/title>
+    HCI Research Page
 </head>
 <body>
     <h1>Computational Persona for Video Generation</h1>
